@@ -2,7 +2,7 @@ Browse13
 ========
 *For times when HTTPS is not good enough.*
 
-**Chrome extension to experience the web in full ROT13 glory**
+**Chrome extension to experience the web in full, Technicolor, ROT13 glory**
 
 :skull: Spoiler warning :skull:
 -------------------------------
